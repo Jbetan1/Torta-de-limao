@@ -1,0 +1,159 @@
+.foto {
+    margin-top: 25px;
+    margin-left: 22px;
+    width: 883px;
+    height: 374px;
+  }
+  .titulo__principal1 {
+    color: #ffb300;
+    margin-top: 30px;
+    margin-left: 22px;
+    font-size: 89px;
+    font-family: Montserrat, Black;
+    font-weight: 900;
+    text-aling: left;
+    height: 187px;
+    width: 884px;
+  }
+  .autor {
+    text-align: right;
+    font-family: Montserrat, Bold;
+    font-size: 21px;
+    font-weight: 800;
+    width: 890px;
+    margin-top: 30px;
+    margin-left: 10px;
+  }
+  .parrafo__primario,
+  .parrafo__secundario {
+    font-family: Montserrat, SemiBold;
+    margin-left: 22px;
+    font-weight: 600;
+    color: #000000;
+    letter-spacing: 0px;
+    width: 883px;
+    margin-top: 30px;
+  }
+  
+  .preparo {
+    font-family: Montserrat;
+    font-size: 21px;
+    margin-left: 22px;
+    font-weight: 800;
+    text-transform: uppercase;
+    color: #000000;
+    letter-spacing: 0px;
+  }
+  .min {
+    font-family: Montserrat, Medium;
+    font-size: 21px;
+    margin-left: 2px;
+    font-weight: 400;
+    opacity: 1;
+    text-transform: uppercase;
+    letter-spacing: 0px;
+  }
+  .rendimiento__titulo {
+    display: inline-block;
+    color: #000000;
+    font-size: 21px;
+    font-family: Montserrat, Black;
+    font-weight: 800;
+    margin-left: 22px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    text-transform: uppercase;
+    letter-spacing: 0px;
+  }
+  .porcoes {
+    font-family: Montserrat, Medium;
+    font-size: 21px;
+    margin-left: 2px;
+    font-weight: 400;
+    opacity: 1;
+    text-transform: uppercase;
+    letter-spacing: 0px;
+  }
+  .rendimiento {
+    border-bottom: 5px solid #999999;
+    width: 900px;
+  }
+  .borde__superior {
+    border-bottom: 5px solid #999999;
+    width: 900px;
+    margin-bottom: 20px;
+  }
+  .titulo__lista {
+    font-family: Montserrat, Black;
+    font-size: 34px;
+    color: #ffb300;
+    font-weight: 900;
+    margin-left: 22px;
+    width: 235px;
+    letter-spacing: 0px;
+  }
+  .lista__ingredientes {
+    margin-left: 22px;
+    font-family: Montserrat, SemiBold;
+    font-size: 21px;
+    font-weight: 600;
+  }
+  .border {
+    border-top: 5px solid #999999;
+    width: 900px;
+    margin-top: 30px;
+  }
+  .titulo__preparacion {
+    font-family: Montserrat, Black;
+    font-size: 34px;
+    color: #ffb300;
+    font-weight: 900;
+    margin-left: 22px;
+    width: 844px;
+    letter-spacing: 0px;
+  }
+  .lista__preparar {
+    margin-left: 22px;
+    font-family: Montserrat, SemiBold;
+    font-size: 21px;
+    font-weight: 600;
+  }
+  
+  .border__inferior {
+    border-top: 5px solid #999999;
+    width: 900px;
+    margin-top: 30px;
+  }
+  .titulo__video {
+    font-family: Montserrat, Black;
+    font-size: 34px;
+    color: #ffb300;
+    font-weight: 900;
+    margin-left: 22px;
+    width: 844px;
+    letter-spacing: 0px;
+  }
+  .video__principal {
+    margin-left: 22px;
+    width: 883px;
+    height: 497px;
+    border: 1px solid #707070;
+  }
+  .voltar {
+    font-family: Montserrat, Black;
+    font-size: 21px;
+    margin-left: 22px;
+    color: #0037b3;
+    font-weight: 700;
+    width: 263px;
+    height: 25px;
+  }
+  .rodapee {
+    margin-left: 22px;
+    width: 263px;
+    height: 25px;
+    font-family: Montserrat, Black;
+    font-size: 14px;
+    margin-top: 100px;
+  }
+  
